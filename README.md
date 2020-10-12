@@ -5,7 +5,7 @@ This project was created in order to validate the Car Store APIs project, availa
 
 # Run application
 
-The application can be started using a Tomcat Web Server. Just copy and past the project folder into the ```webapps``` directory. 
+The application can be started using any Web Server compatible with Java 11. If you want to use Tomcat, just copy and past the project folder into the ```webapps``` directory. 
 
 After starting Tomcat, just open the link to run the application for localhost environment:
 
